@@ -45,11 +45,11 @@ This project was developed with the following technologies
 
 ## :clipboard: Functionalities
 
-  - [x] List all employees/products.
-  - [x] Create employees/products.
-  - [x] List employees/products by id.
-  - [x] Update employees/products by id .
-  - [x] Delete employees/products by id.
+  - [x] List all products.
+  - [x] Create products.
+  - [x] List products by id.
+  - [x] Update products by id .
+  - [x] Delete products by id.
 
 ## :closed_book: Installation
 
